@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{08AD1749-298C-4199-AFB0-2A3CD5D34DE9}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Presentation/Services/GroupService.cs">
+    <Files>
+      <File FileName="Presentation/Program.cs" />
+      <File FileName="Presentation/Services/GroupService.cs" Line="88" Column="14" />
+      <File FileName="Data/Repository/Concrete/GroupRepository.cs" />
+      <File FileName="Core/Entities/Group.cs" />
+      <File FileName="Data/Contexts/DbContent.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Academy2" expanded="True">
+            <Node name="Presentation" expanded="True">
+              <Node name="Services" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Presentation PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
